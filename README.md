@@ -1,3 +1,15 @@
+# DAD JOKES
+
+JSON api to that get dad jokes.
+API - [https://icanhazdadjoke.com/](https://icanhazdadjoke.com/)
+Emojis - https://afeld.github.io/emoji-css/emoji.css
+
+Live Demo
+
+# Snapshots
+
+![image](https://user-images.githubusercontent.com/53892988/162453857-884086c7-5c62-45b7-8562-aa850a4a55c5.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
