@@ -1,9 +1,9 @@
 # DAD JOKES
 
 JSON api to get dad jokes.\
-API - [https://icanhazdadjoke.com/](https://icanhazdadjoke.com/)\
+API - [https://icanhazdadjoke.com/](https://icanhazdadjoke.com/)
 
-Emojis - https://afeld.github.io/emoji-css/emoji.css\
+Emojis - https://afeld.github.io/emoji-css/emoji.css
 
 Live Demo [preview](https://6253de9b4272251db3efade3--dadjokes-react.netlify.app/)
 
